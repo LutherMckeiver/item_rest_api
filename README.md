@@ -1,6 +1,6 @@
 # Item REST API
 
-This is a learning project for me to learn to about Flask and SQLITE. 
+This is a learning project to learn to about Flask and SQLITE. 
 
 ## Installation
 
